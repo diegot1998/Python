@@ -1,0 +1,1 @@
+Este repositorio tiene como objetivo tener varios algoritmos en  python para resolver temas varios.
